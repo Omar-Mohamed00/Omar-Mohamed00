@@ -29,6 +29,10 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=postman" height="40" alt="postman logo"  />
+  <img width="12" />
+  <img src="https://raw.githubusercontent.com/docker-library/docs/0d020fae14e3e89cb130d8c8d726c1cbd1b810c6/redis/logo.png" alt="Redis" height="40"/>
+  <img width="12" />
+  <img src="https://www.docker.com/wp-content/uploads/2022/03/Moby-logo.png" alt="Docker"height="40"/>
 </div>
 
 ###
