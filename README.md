@@ -1,6 +1,3 @@
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
-</div>
 <h1 align="left">Hi, my name is Omar and I'm a Back-end Engineer</h1>
 
 ###
